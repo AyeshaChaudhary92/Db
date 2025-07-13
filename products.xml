@@ -1,0 +1,28 @@
+<products>
+    <product>
+        <id>1</id>
+        <name>Mroon Dress</name>
+        <price>35.00</price>
+        <image>women product img/bodycon.jpeg</image>
+    </product>
+    <product>
+        <id>2</id>
+        <name> Evening Gown</name>
+        <price>55.00</price>
+        <image>women product img/dres14.jpg</image>
+    </product>
+    <product>
+        <id>3</id>
+        <name> Black Gown</name>
+        <price>55.00</price>
+        <image>women product img/dress6.jpg</image>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Pink Dress</name>
+        <price>35.00</price>
+        <image>women product img/dress11.jpg</image>
+    </product>
+    
+</products>
+

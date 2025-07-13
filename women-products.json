@@ -1,0 +1,45 @@
+[
+    {
+        "id": "w1",
+        "name": "Bodycon Dress",
+        "price": 39.99,
+        "image": "women product img/bodycon.jpeg"
+    },
+    {
+        "id": "w2",
+        "name": "Party Dress",
+        "price": 49.99,
+        "image": "women product img/dress.jpg"
+    },
+    {
+        "id": "w3",
+        "name": "Red Dress",
+        "price": 29.99,
+        "image": "women product img/dress11.jpg"
+    },
+    {
+        "id": "w4",
+        "name": "Blue Gown",
+        "price": 59.99,
+        "image": "women product img/dress13.jpg"
+    },
+    {
+        "id": "w5",
+        "name": "Night Event",
+        "price": 34.99,
+        "image": "women product img/dress4.jpg"
+    },
+    {
+        "id": "w6",
+        "name": "Casual Top",
+        "price": 24.99,
+        "image": "women product img/dress6.jpg"
+    },
+    {
+        "id": "w7",
+        "name": "Red Dress",
+        "price": 24.99,
+        "image": "women product img/dres14.jpg"
+    }
+]
+    
